@@ -1,4 +1,4 @@
 # Hello
 This is my second git repo
 <br>
-<pre>                 Author - HARIKA KANCHARLA</pre>
+<pre>                 Author - HARIKA KANCHARLA(Haari)</pre>
